@@ -1,4 +1,4 @@
-<h2 align="center"><b><img src="http://avatars.githubusercontent.com/u/84650617?s=48&v=4"/> Hi, I'm HuskyDG</b></h2>
+<h2 align="center"><b><img src="https://github.com/PalladiumOS/manifest/blob/fourteen/Pd_banner.png&v=40"/> Pixel Based Custom rom, it's PalladiumOS</b></h2>
 
-Telegram Channel: [@HuskyDG](http://t.me/HuskyDG)
+Telegram Channel: [@HuskyDG](http://t.me/PalladoiumOSOfficial)
 
